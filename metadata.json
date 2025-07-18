@@ -1,0 +1,8 @@
+
+{
+  "name": "Wellness Guide AI",
+  "description": "Get personalized health guidance, diet plans, exercise recommendations, and find nearby health professionals based on your health concerns and personal data, powered by AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
